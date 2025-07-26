@@ -55,9 +55,9 @@ project_diary/
 
 ## 📸 Screenshot
 
-![UI Image](https://github.com/user-attachments/assets/860f5368-4fee-4864-a49e-992a71aae392)
 ![UI Image](https://github.com/user-attachments/assets/e1551976-6ea8-49e5-8a28-af59114fd68a)
 ![UI Image](https://github.com/user-attachments/assets/324a49e9-a5c9-4068-8a71-fd60b804e6b4)
+![UI Image](https://github.com/user-attachments/assets/d2b880c7-f078-4e88-8758-7d58e773d93a)
 
 ---
 
